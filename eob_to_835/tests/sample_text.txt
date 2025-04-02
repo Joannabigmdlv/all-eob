@@ -1,0 +1,3 @@
+Patient Name: John Doe
+CPT Code: 99213
+Paid Amount: $90.00
